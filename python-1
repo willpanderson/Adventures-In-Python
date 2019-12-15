@@ -1,0 +1,48 @@
+print("Hello World")
+
+print("Python 3.8.0 is the first Python I used")
+
+#basic text I/O
+
+name = input("What is your name? ")
+age = input("What is your age? ")
+age = 2019 - int(age)
+print(name + ",You were born in " + str(age))
+
+#basic text manipulation
+
+manipilation = input("Enter a string to change formats: ")
+
+print(manipilation.lower())
+print(manipilation.upper())
+print("It is " + str(manipilation.islower()) + " that the word "+ manipilation + " is in lowercase\n")
+print("It is " + str(manipilation.isupper()) + " that the word " + manipilation + " is in uppercase\n")
+
+# Clauses and Boolean Statements
+
+i = 1
+j = 1
+k = 1
+for i in range(6):
+   {
+       print(i)
+   }
+print("\n")
+for j in range(5):
+    print(j)
+    for k in range(5):
+        print(k)
+        
+
+l = 0
+
+if l == 0:
+    print("YES")
+
+else:
+    print("NO")
+
+print("END OF FIRST PROGRAM IN PYTHON 3.8.0, THANKS FOR PLAYING")
+
+
+

@@ -9,7 +9,7 @@ age = input("What is your age? ")
 age = 2019 - int(age)
 print(name + ",You were born in " + str(age))
 
-#basic text manipulation
+# basic text manipulation
 
 manipilation = input("Enter a string to change formats: ")
 
@@ -43,6 +43,5 @@ else:
     print("NO")
 
 print("END OF FIRST PROGRAM IN PYTHON 3.8.0, THANKS FOR PLAYING")
-
 
 

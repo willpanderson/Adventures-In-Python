@@ -1,8 +1,6 @@
 Adventures in Python
 ====================
 
-Python is the fourth programming language that I will have learned following C, C++, and Java
-
 This is a record of all my programming work in Python for personal use.
 
 You are free to review, share or modify the code as you please.
